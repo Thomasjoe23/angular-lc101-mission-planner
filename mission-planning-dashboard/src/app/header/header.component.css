@@ -1,0 +1,15 @@
+h1 {
+    color: firebrick;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 3px 1px white;
+}
+
+h3 {
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+.header {
+    background-color: tan;
+    padding: 20px;
+}
